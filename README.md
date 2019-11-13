@@ -1,10 +1,10 @@
-![GreenEnergy Classic](./img/logo-extended.png)
+![GreenEnergy](./img/logo-extended.png)
 
-This is the working repository forGreenEnergy Classic 1.0.0
+This is the working repository for GreenEnergy 1.0.0
 
 For more information please visit the website:
 
-https://swisscoin-classic.org/project-roadmap/
+https://GreenEnergy-Coinm.org/project-roadmap/
 
 <!-- TODO: [![Build Status](https://travis-ci.org/NAVCoin/greenenergy-core.svg?branch=master)](https://travis-ci.org/NAVCoin/greenenergy-core) -->
 
@@ -33,14 +33,12 @@ https://swisscoin-classic.org/project-roadmap/
 | Site | link |
 |:-----------|:-----------|
 | Freenode IRC | #greenenergy-dev |
-| Medium | https://medium.com/swisscoin-classic |
 | Twitter | https://twitter.com/GreenEnergy |
 | Discord | https://discord.gg/METRO:TODO |
 | Telegram | https://t.me/greenenergy |
 | Reddit | http://www.reddit.com/r/greenenergy |
 | Facebook | https://www.facebook.com/GreenEnergy |
-| Instagram | https://www.instagram.com/swisscoincclassic/ |
-| Bitcointalk | https://bitcointalk.org/index.php?topic=METRO:TODO | -->
+
 <!--
 ## Community Resources
 
