@@ -4,7 +4,7 @@ This is the working repository for GreenEnergy 1.0.0
 
 For more information please visit the website:
 
-https://GreenEnergy-Coinm.org/project-roadmap/
+https://GreenEnergy-Coin.org/project-roadmap/
 
 <!-- TODO: [![Build Status](https://travis-ci.org/NAVCoin/greenenergy-core.svg?branch=master)](https://travis-ci.org/NAVCoin/greenenergy-core) -->
 
